@@ -1,0 +1,49 @@
+@charset "utf-8";
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+</style>
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size:1em;
+	font-weight:400;
+}
+
+h1 {
+    color: #66bbff;
+}
+
+.Botao1{
+	text-decoration: none;
+	background-color:#66bbff;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight:700;
+	border-radius:5px;
+}
+
+.Botao2{
+	text-decoration: none;
+	background-color:#d51213;
+	padding: 5px 10px 5px 10px;
+	color: #fff;
+	font-size: 1.2em;
+	font-weight:700;
+	border-radius:5px;
+}
+
+#tabela{
+	margin-top: 60px;
+}
+
+#tabela th {
+	border:1px solid #ddd;
+	padding:10px;
+	text-align: right;
+	background-color: #66bbff;
+	color: #fff;
+	border-spacing: 30px;
+}
+
+
